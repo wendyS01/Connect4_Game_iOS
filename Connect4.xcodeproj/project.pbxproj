@@ -27,6 +27,7 @@
 		E528EEF7279A29E2008A5C41 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E528EEFA279A29E2008A5C41 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E528EEFC279A29E2008A5C41 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E535996327A354C70086348B /* File.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = File.swift; path = ../../../../../../../guenole/Desktop/File.swift; sourceTree = "<group>"; };
 		E5683C1F279CD777007FBD2F /* Alpha0C4 */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = Alpha0C4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -71,6 +72,7 @@
 			isa = PBXGroup;
 			children = (
 				E528EEEB279A29E1008A5C41 /* AppDelegate.swift */,
+				E535996327A354C70086348B /* File.swift */,
 				E528EEED279A29E1008A5C41 /* SceneDelegate.swift */,
 				E528EEEF279A29E1008A5C41 /* ViewController.swift */,
 				E528EEF1279A29E1008A5C41 /* Main.storyboard */,
